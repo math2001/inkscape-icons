@@ -6077,9 +6077,9 @@
      inkscape:window-x="-8"
      inkscape:window-height="1017"
      inkscape:window-width="1920"
-     inkscape:cy="582.85137"
-     inkscape:cx="1246.8874"
-     inkscape:zoom="4"
+     inkscape:cy="603.61582"
+     inkscape:cx="1012.2395"
+     inkscape:zoom="2.8284271"
      gridtolerance="6"
      snaptogrid="false"
      showgrid="true"
@@ -6126,7 +6126,7 @@ http://www.inkscape.org/</dc:description>
             <dc:title>Inkscape Developers</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
@@ -19060,9 +19060,9 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="29.101618"
        id="rect15039"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect15041"
        width="11.626359"
        height="11.602825"
@@ -19074,7 +19074,7 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="36.74345"
        id="rect15043"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        inkscape:connector-curvature="0"
        id="path15051"
@@ -21007,7 +21007,7 @@ http://www.inkscape.org/</dc:description>
      transform="matrix(-1.0000013,0,0,1.0000013,2337.8552,-61.039188)"
      id="align-horizontal-left-to-anchor">
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10409"
        width="29.101618"
        height="11.602825"
@@ -21019,9 +21019,9 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="11.626359"
        id="rect10411"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10413"
        width="36.74345"
        height="11.602825"
@@ -21049,9 +21049,9 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="29.101618"
        id="rect10424"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10426"
        width="11.626359"
        height="11.602825"
@@ -21063,7 +21063,7 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="36.74345"
        id="rect10428"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        inkscape:connector-curvature="0"
        id="path10430"
@@ -21081,7 +21081,7 @@ http://www.inkscape.org/</dc:description>
      transform="matrix(0,-1.000015,1,0,1081.7467,1177.0281)"
      id="align-vertical-bottom-to-anchor">
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10441"
        width="29.101618"
        height="11.602825"
@@ -21093,9 +21093,9 @@ http://www.inkscape.org/</dc:description>
        height="11.602825"
        width="11.626359"
        id="rect10443"
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:1;fill:none;stroke:#999999;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#4d4d4d;stroke-width:1.99932563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10446"
        width="36.74345"
        height="11.602825"
